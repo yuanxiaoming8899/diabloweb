@@ -1,13 +1,7 @@
-## Diablo 1 for web browsers!
-
-This project is based on https://github.com/diasurgical/devilution.
-
-Source code to build the WebAssembly modules is here: https://github.com/d07RiV/devilution
-
-I've modified the code to remove all dependencies and exposed the minimal required interface with JS, allowing the game to be compiled into WebAssembly.
-
-Event handling (especially in the menus) had to be modified significantly to fit the JS model.
-
-The project is hosted on https://d07RiV.github.io/diabloweb/ along with spawn.mpq from the shareware version (place it in the public folder to run locally).
-This allows shareware version to be played anywhere, even on mobile phones. To play the full game, you must use your own DIABDAT.MPQ that you can obtain
-with the original copy of the game from [GoG](url=https://www.gog.com/game/diablo).
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">适用于网络浏览器的暗黑破坏神 1！</font></font></h2><a id="user-content-diablo-1-for-web-browsers" class="anchor" aria-label="永久链接：适用于网络浏览器的暗黑破坏神 1！" href="#diablo-1-for-web-browsers"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">该项目基于</font></font><a href="https://github.com/diasurgical/devilution"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://github.com/diasurgical/devilution</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">构建 WebAssembly 模块的源代码在这里：</font></font><a href="https://github.com/d07RiV/devilution"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://github.com/d07RiV/devilution</font></font></a></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我修改了代码以删除所有依赖项，并公开了 JS 所需的最小接口，从而允许将游戏编译成 WebAssembly。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">事件处理（尤其是在菜单中）必须进行大量修改才能适应 JS 模型。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">该项目托管在</font></font><a href="https://d07RiV.github.io/diabloweb/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://d07RiV.github.io/diabloweb/</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">上，同时托管共享软件版本的 spawn.mpq（将其放在公共文件夹中以在本地运行）。这样，共享软件版本就可以在任何地方玩，甚至在手机上也可以玩。要玩完整版游戏，您必须使用自己的 DIABDAT.MPQ，您可以从 GoG 获得游戏的原始副本。</font></font></p>
+</article></div>
